@@ -1,9 +1,5 @@
 void obtainArtifact()
-{
-    turnRight();
-    moveAround();
-    pickBeeper();
-    moveAround();
+
     dropBeeper();    
 }
 
