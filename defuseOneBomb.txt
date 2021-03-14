@@ -1,0 +1,15 @@
+void defuseOneBomb()
+{
+    WalkTurn();
+    pickBeeper();
+    WalkTurn();
+}
+
+void WalkTurn()
+{
+    repeat(9)
+    {
+        moveForward();
+    }
+    turnAround();aa
+}

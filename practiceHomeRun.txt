@@ -1,0 +1,14 @@
+void practiceHomeRun(){
+    repeat(4){    
+    PickWalkTurn();
+    }
+}
+
+void PickWalkTurn()
+{
+    pickBeeper();
+    repeat(9){
+        moveForward();
+    }
+    turnLeft();
+}
