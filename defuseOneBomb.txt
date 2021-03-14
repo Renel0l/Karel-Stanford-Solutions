@@ -11,5 +11,5 @@ void WalkTurn()
     {
         moveForward();
     }
-    turnAround();aa
+    turnAround();
 }
