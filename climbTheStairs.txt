@@ -1,0 +1,11 @@
+void climbTheStairs(){
+    moveForward();
+    repeat(6){
+        if (frontIsClear() ){
+            moveForward();
+        }
+        else{
+            turnLeft();    
+        }    
+    }
+}
