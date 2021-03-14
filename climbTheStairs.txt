@@ -8,8 +8,4 @@ void climbTheStairs(){
             turnLeft();    
         }    
     }
-<<<<<<< ours
-}test1234
-=======
 }test 665njghghghhjh
->>>>>>> theirs
