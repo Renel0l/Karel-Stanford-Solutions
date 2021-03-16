@@ -3,7 +3,7 @@ void climbTheStairs(){
     repeat(6){
         if (frontIsClear() ){
             moveForward();
-        }https://github.com/Renel0l/Karel-Stanford-Solutions/blob/main-editor/climbTheStairs.txt
+        }
         else{
             turnLeft();    
         }    
