@@ -4,7 +4,7 @@ void climbTheStairs(){
         if (frontIsClear() ){
             moveForward();
         }
-        else{
+        else{ee
             turnLeft();    
         }    
     }
